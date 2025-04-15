@@ -1,1 +1,1 @@
-# Integrating-Supervised-Unsupervised-and-Self-Supervised-Models-for-an-Enhanced-PCOS-Detection
+# Comparing the performance of Supervised, Unsupervised, and Self-Supervised models for PCOS Detection
